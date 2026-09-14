@@ -1,67 +1,36 @@
-# Оценивание первой лекции / Lecture 01 assessment
+# Оценивание первой работы / First assignment assessment
 
-Рабочая рубрика для P01 и HW01. Это предложенные критерии первой работы, а не извлечённая из Moodle официальная балльная схема курса. Вес этих работ в итоговой оценке, сроки и правила пересдачи публикуются преподавателем отдельно. Просмотр вводной лекции отдельно не оценивается.
+**HW01 / EM01_Numpy: максимум 100 баллов.** P01 — подготовительная практика без отдельного балла. Эта редакция заменяет прежние 10+20 баллов за постановку задачи и паспорт проекта.
 
-## P01 — до 10 баллов
-
-| Критерий | Баллы |
+| Критерий / Task | Максимум / Maximum |
 |---|---:|
-| Конкретный пользователь и понятная задача | 0–2 |
-| Входы, выходы и три содержательных примера | 0–2 |
-| Подходящий baseline и его ограничения | 0–2 |
-| Вычислимая метрика, правило успешности и ограничение | 0–2 |
-| План данных/проверки и исправление по обратной связи | 0–2 |
+| T1: ndarray 0…9, shape `(10,)` | 10 |
+| T2: векторизованная сумма квадратов / vectorised sum of squares | 15 |
+| T3: диагонали и центр / diagonals and centre | 15 |
+| T4: broadcasting для разных размеров / multiple dimensions | 15 |
+| T5: маска, среднее, пустой результат / mask, mean, empty result | 15 |
+| T6: решение через `np.linalg.solve` / solve without inverse | 20 |
+| T7: создание, reshape, обратный срез / creation, reshape, reverse slice | 10 |
+| **Итого / Total** | **100** |
 
-Для каждого критерия: **0** — отсутствует или принципиально неверно; **1** — частично выполнено, есть существенная неоднозначность; **2** — выполнено полностью и согласовано с задачей.
+Самопроверка начисляет полный балл за задачу, если все её открытые проверки пройдены, иначе 0. Ошибка одной задачи не прерывает остальные. Проверяются значения, формы, разные входы и отсутствие изменения входов там, где это требуется.
 
-## HW01 — до 20 баллов
+Преподаватель проверяет код: запреты на циклы и подстановку готовых ответов, использование требуемых операций, объяснение broadcasting и маски. Открытая проверка не доказывает векторизацию и не защищена от редактирования. Если код нарушает условие задачи, балл за эту задачу не засчитывается; отдельного повторного штрафа нет. Источники и AI-помощь нужно указать, решение — уметь объяснить.
 
-| Критерий | Баллы |
-|---|---:|
-| Постановка задачи, границы и обоснование трека | 0–3 |
-| Источник данных и пять примеров/сценариев с ожидаемыми результатами | 0–4 |
-| Сравнимый baseline, одно улучшение и проверяемая гипотеза | 0–4 |
-| Метрика, корректный пример расчёта, ограничение и критерий успеха | 0–4 |
-| План сравнения и разделение разработки/итоговой проверки | 0–3 |
-| Два риска, этапы работы и прозрачное указание источников/помощи | 0–2 |
+Сдаётся ноутбук `.ipynb`, выполненный после перезапуска среды. Сроки, пересдачи и вес в итоговой оценке курса задаются в Moodle. Устаревший штраф по датам 2025 года удалён; ноутбук не определяет фактическое время сдачи.
 
-Для критериев на **3 балла**: 0 — нет; 1 — только общие утверждения; 2 — основное выполнено, остался один существенный пробел; 3 — полное согласованное описание.
+## Ведомость (пустой шаблон)
 
-Для критериев на **4 балла**: 0 — нет; 1 — отдельные элементы без рабочего описания; 2 — выполнено примерно наполовину, нужны существенные уточнения; 3 — почти полное решение с локальным пробелом; 4 — полное, конкретное и проверяемое решение.
+| ID | T1/10 | T2/15 | T3/15 | T4/15 | T5/15 | T6/20 | T7/10 | Всего/100 | Комментарий |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| — | — | — | — | — | — | — | — | — | — |
 
-Для критерия на **2 балла** применяется шкала P01. Один недостаток не штрафуется повторно за пределами затронутых им критериев. Оценка сопровождается конкретным замечанием и способом исправления.
-
-**Итог первой работы: P01 + HW01, максимум 30 баллов.** Это не перевод в пятибалльную оценку и не 30% итоговой оценки курса. Код, обученная модель и рост метрики сейчас не требуются. Использование AI само по себе не снижает балл: студент указывает помощь, проверяет результат и может объяснить решение.
-
-## Ведомость преподавателя
-
-Скопируйте таблицу в отдельный закрытый файл. Не публикуйте фамилии и оценки студентов в открытом репозитории.
-
-| ID студента | P01 / 10 | HW01 / 20 | Всего / 30 | Комментарий и исправления |
-|---|---:|---:|---:|---|
-| — | — | — | — | — |
-
----
+Заполненную ведомость хранить отдельно от публичного репозитория.
 
 ## English
 
-This is a proposed working rubric for the first practical and homework, not an official course-wide grading policy retrieved from Moodle. Overall weights, deadlines and resubmission rules are published separately. Watching the introductory lecture earns no separate score.
+HW01 is worth 100 points; P01 is ungraded preparation. This replaces the earlier 10+20 project-planning rubric. The table gives each task's maximum. Public checks award full task points only when all checks pass, otherwise zero; one failure does not stop other tasks.
 
-**P01: 10 points**, five criteria worth 0–2 each: user/problem; input/output and three examples; baseline/limitations; computable metric/pass rule/constraint; data/evaluation plan and feedback revision. Score 0 for missing/incorrect, 1 for partial or ambiguous, 2 for complete and consistent.
+The instructor also reviews required operations, vectorisation, prohibited loops/hardcoding, and the explanations of broadcasting and masking. Passing public checks does not prove method compliance or prevent tampering. A task that violates its requirements earns no task points, with no duplicate penalty. Acknowledge sources/AI assistance and be able to explain your solution.
 
-**HW01: 20 points:**
-
-| Criterion | Points |
-|---|---:|
-| Problem, scope and track justification | 0–3 |
-| Data source and five examples/scenarios with expected outcomes | 0–4 |
-| Comparable baseline, one improvement and testable hypothesis | 0–4 |
-| Metric, correct illustrative calculation, constraint and success criterion | 0–4 |
-| Fair comparison plan and development/final evaluation separation | 0–3 |
-| Two risks, stages and transparent attribution of sources/assistance | 0–2 |
-
-For 3-point criteria: 0 absent; 1 generic statements; 2 mostly complete with one substantial gap; 3 complete and coherent. For 4-point criteria: 0 absent; 1 isolated elements; 2 partial with substantial gaps; 3 nearly complete with a local gap; 4 complete, specific and verifiable. Use the P01 scale for the 2-point criterion. Do not add duplicate penalties beyond affected criteria; provide actionable feedback.
-
-**Combined maximum: 30 points.** This is neither a course percentage nor a conversion to a final grade. No code, trained model or metric improvement is required yet. Acknowledged and checked AI assistance is allowed; students must explain their work.
-
-The gradebook above is a blank private-use template: student ID, P01/10, HW01/20, total/30, feedback. Keep actual student grades out of the public repository.
+Submit an executed `.ipynb` after a clean runtime restart. Moodle specifies deadlines, resubmission rules and course weights. The obsolete 2025 date-based penalty has been removed; local execution time is not treated as submission time. Keep the completed gradebook private.
