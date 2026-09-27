@@ -17,8 +17,15 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 2. [ДЗ HW02 в Colab / Open homework](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW02_Data_Metrics.ipynb)
 3. [Инструкции и оценивание / Instructions and assessment](lectures/02-data-metrics/README.md)
 
+## Лекция 03 / Lesson 03
+
+1. [Практика P03 в Colab / Open practice](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P03_Experiment.ipynb)
+2. [ДЗ HW03 в Colab / Open homework](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW03_Experiment.ipynb)
+3. [Инструкции / Instructions](lectures/03-experiment/README.md)
+4. [Оценивание / Assessment](lectures/03-experiment/ASSESSMENT.md)
+
 ## Сдача работ / Submissions
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–02. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–02 are organised; other notebooks belong to later sessions.
+Упорядочены лекции 01–03. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–03 are organised; other notebooks belong to later sessions.
