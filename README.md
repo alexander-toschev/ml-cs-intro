@@ -24,8 +24,17 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 3. [Инструкции / Instructions](lectures/03-experiment/README.md)
 4. [Оценивание / Assessment](lectures/03-experiment/ASSESSMENT.md)
 
+## Лекция 04 / Lesson 04
+
+1. [Практика P04 в Colab / Open practice](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P04_Neural_Networks.ipynb)
+2. [ДЗ HW04 в Colab / Open homework](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW04_Neural_Networks.ipynb)
+3. [Инструкции / Instructions](lectures/04-neural-networks/README.md)
+4. [Оценивание / Assessment](lectures/04-neural-networks/ASSESSMENT.md)
+
+Все новые практики и ДЗ строятся на известных реальных датасетах. Для P04/HW04 используем Digits. / All new practices and homework use established real datasets. P04/HW04 use Digits.
+
 ## Сдача работ / Submissions
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–03. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–03 are organised; other notebooks belong to later sessions.
+Упорядочены лекции 01–04. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–04 are organised; other notebooks belong to later sessions.
