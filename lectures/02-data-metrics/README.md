@@ -8,7 +8,11 @@
 
 Сдача / Submit: выполненный / executed `Группа_Фамилия_HW02.ipynb` в [общую папку / shared folder](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Дедлайн / deadline: [Moodle](https://edu.kpfu.ru/course/view.php?id=6076).
 
-Оба ноутбука содержат RU и EN, работают на CPU без внешних данных и платных API. Все примеры искусственные. / Both notebooks contain RU and EN, run on CPU without external data or paid APIs, and use synthetic examples.
+P02 обновлена 05.10.2026: реальный **Digits** (scikit-learn/UCI), задача «9 против остальных», визуальные confusion matrix, accuracy/precision/recall/F1, естественный дисбаланс, выбор порога на validation и 7 заданий студентам. Ноутбук RU/EN работает в Colab на CPU; датасет включён в scikit-learn. / P02 updated 2026-10-05: real **Digits** (scikit-learn/UCI), “9 vs the rest”, visual confusion matrices, accuracy/precision/recall/F1, natural imbalance, validation-based threshold selection and 7 student exercises. The RU/EN notebook runs on Colab CPU; data are bundled with scikit-learn.
+
+Ранее выданное HW02 сохраняет исходные условия и критерии оценивания. / Previously issued HW02 retains its original requirements and assessment criteria.
+
+[Предыдущая версия P02 / Previous P02](../../Archive/practise/2026-10-05/P02_Data_Metrics.ipynb) сохранена для истории; для нового занятия используйте ссылку P02 выше. / Archived for reference; use the P02 link above for the current practice.
 
 Темы: разбиение train/validation/test, утечка, матрица ошибок, accuracy/precision/recall/F1, baseline, порог и выбор по ограничению. / Topics: splits, leakage, confusion matrix, metrics, baseline, thresholds and constrained selection.
 
