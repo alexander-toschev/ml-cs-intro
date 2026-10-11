@@ -12,6 +12,6 @@
 
 Источники / Sources: [Digits](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html), [Wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html). Никакой генерации синтетических объектов. Нет ID авторов в Digits и партий/производителей в Wine: разбиение по наблюдениям не проверяет новые группы. / No synthetic observations. Writer IDs in Digits and batch/producer IDs in Wine are unavailable; sample splits do not evaluate unseen groups.
 
-Слайды и сценарии RU/EN — в Google Drive «ВведениеПИ / Лекция 05». Видео пока не опубликовано. / RU/EN slides and scripts are in Google Drive, “ВведениеПИ / Лекция 05”. Video is not yet published.
+[Слайды, сценарии, озвучка и видео RU/EN / Slides, scripts, narration and videos](https://drive.google.com/drive/folders/1tdmrsBMP_Nn3Jmu9FPZAMalPy108f4es) — Google Drive «ВведениеПИ / Лекция 05». Видео по 30 минут, включая паузы на упражнения. / Each video is 30 minutes including exercise pauses.
 
 Сдайте выполненный ноутбук `Группа_Фамилия_HW05.ipynb` в [Сдача ДЗ / Submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Срок — в [матрице по группам / group deadline matrix](https://docs.google.com/spreadsheets/d/1zzedKe77LfubpYsN4gsesqrvGwnb4pAoEuqLpkfNr6A/edit). / Upload the executed notebook with your name and group. Use the group deadline matrix; no deadline is invented in the notebook.
