@@ -38,10 +38,17 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 3. [Инструкции / Instructions](lectures/05-error-analysis/README.md)
 4. [Оценивание / Assessment](lectures/05-error-analysis/ASSESSMENT.md)
 
+## Лекция 06 / Lesson 06
+
+1. [Практика P06 — CIFAR-10 / Practice in Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P06_Transfer_Learning.ipynb)
+2. [ДЗ HW06 — CIFAR-10 / Homework in Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW06_Transfer_Learning.ipynb)
+3. [Инструкции / Instructions](lectures/06-transfer-learning/README.md)
+4. [Оценивание / Assessment](lectures/06-transfer-learning/ASSESSMENT.md)
+
 Все новые практики и ДЗ строятся на известных реальных датасетах. Для P04/HW04 используем Digits. / All new practices and homework use established real datasets. P04/HW04 use Digits.
 
 ## Сдача работ / Submissions
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–05. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–05 are organised; other notebooks belong to later sessions.
+Упорядочены лекции 01–06. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–06 are organised; other notebooks belong to later sessions.
