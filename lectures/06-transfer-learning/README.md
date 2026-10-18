@@ -18,4 +18,4 @@
 
 Срок: [живая матрица группы / live group matrix](https://docs.google.com/spreadsheets/d/1zzedKe77LfubpYsN4gsesqrvGwnb4pAoEuqLpkfNr6A/edit). Пустая дата означает, что срок ещё не установлен. После срока применяется линейное снижение за 14 суток, одинаково для всех. / A blank date means the deadline is not set. After the deadline, credit decreases linearly over 14 days for all students.
 
-[Слайды и сценарии RU/EN / Slides and scripts](https://drive.google.com/drive/folders/1G7KhMzN8Por2JYvYjSBa4qhBJpdMItmR) — Google Drive. Озвучка и видео пока ожидают восстановления доступа ElevenLabs. / Narration and videos are pending restored ElevenLabs access.
+[Слайды, озвучка и видео RU/EN / Slides, narration and videos](https://drive.google.com/drive/folders/1G7KhMzN8Por2JYvYjSBa4qhBJpdMItmR) — Google Drive. Видео: RU 14:31, EN 12:34, без добавленных пауз. / Videos: RU 14:31, EN 12:34, without added pauses.
