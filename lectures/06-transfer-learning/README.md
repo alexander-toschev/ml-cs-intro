@@ -2,7 +2,7 @@
 
 Цель: сравнить пиксельный baseline с замороженными признаками нейросети и собрать проверяемую функцию предсказания. / Goal: compare a pixel baseline with frozen pretrained features and build a testable prediction function.
 
-1. [Практика P06 / Practice in Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P06_Transfer_Learning.ipynb): готовый пример и пять заданий для групп. / A worked example and five group exercises.
+1. [Практика P06 / Practice in Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P06_Transfer_Learning.ipynb): четыре блока «материал → пример → задание с кодом → автоматическая проверка»: анализ разбиения, извлечение признаков, выбор модели по Validation и предсказание изображения. / Four blocks of explanation → example → coding exercise → automatic check: split analysis, feature extraction, validation-based model selection, and image prediction.
 2. [ДЗ HW06 / Homework in Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW06_Transfer_Learning.ipynb): пять функций, заданный эксперимент и объяснения. / Five functions, a prescribed experiment and explanations.
 3. [Оценивание / Assessment](ASSESSMENT.md): код 80, исследование 20. / Code 80, analysis 20.
 
