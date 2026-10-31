@@ -51,8 +51,12 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–07. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–07 are organised; other notebooks belong to later sessions.
+Упорядочены лекции 01–08. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–08 are organised; other notebooks belong to later sessions.
 
 ## Лекция 07 / Lecture 07
 
 [Основы LLM / LLM fundamentals](lectures/07-llm-fundamentals/README.md): AG News, FLAN-T5-small, zero-shot/four-shot, INVALID, validation and Test.
+
+## Лекция 08 / Lecture 08
+
+[RAG и оценка ответов / RAG and answer evaluation](lectures/08-rag-evaluation/README.md): SQuAD 2.0, TF-IDF, Hit@k, MRR, context budget, EM/token F1.

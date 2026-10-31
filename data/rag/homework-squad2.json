@@ -1,0 +1,584 @@
+{
+  "source": "https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json",
+  "license": "CC BY-SA 4.0",
+  "source_sha256": "80a5225e94905956a6446d296ca1093975c4d3b3260f1d6c8f68bc2ab77182d8",
+  "selection": "Four consecutive articles; first <=12 paragraphs with 45–125 whitespace words; first six answerable questions per article; first two articles validation, last two test. Paragraph context retained unchanged.",
+  "documents": [
+    {
+      "id": "114b4c83f0905851",
+      "title": "Victoria_(Australia)",
+      "text": "Immigrants arrived from all over the world to search for gold, especially from Ireland and China. Many Chinese miners worked in Victoria, and their legacy is particularly strong in Bendigo and its environs. Although there was some racism directed at them, there was not the level of anti-Chinese violence that was seen at the Lambing Flat riots in New South Wales. However, there was a riot at Buckland Valley near Bright in 1857. Conditions on the gold fields were cramped and unsanitary; an outbreak of typhoid at Buckland Valley in 1854 killed over 1,000 miners."
+    },
+    {
+      "id": "2ef6bc8b598c3ae9",
+      "title": "Victoria_(Australia)",
+      "text": "In November 2006, the Victorian Legislative Council elections were held under a new multi-member proportional representation system. The State of Victoria was divided into eight electorates with each electorate represented by five representatives elected by Single Transferable Vote. The total number of upper house members was reduced from 44 to 40 and their term of office is now the same as the lower house members—four years. Elections for the Victorian Parliament are now fixed and occur in November every four years. Prior to the 2006 election, the Legislative Council consisted of 44 members elected to eight-year terms from 22 two-member electorates."
+    },
+    {
+      "id": "1f0fc4793c092f70",
+      "title": "Victoria_(Australia)",
+      "text": "The centre-left Australian Labor Party (ALP), the centre-right Liberal Party of Australia, the rural-based National Party of Australia, and the environmentalist Australian Greens are Victoria's main political parties. Traditionally, Labor is strongest in Melbourne's working class western and northern suburbs, and the regional cities of Ballarat, Bendigo and Geelong. The Liberals' main support lies in Melbourne's more affluent eastern and outer suburbs, and some rural and regional centres. The Nationals are strongest in Victoria's North Western and Eastern rural regional areas. The Greens, who won their first lower house seats in 2014, are strongest in inner Melbourne."
+    },
+    {
+      "id": "b8f79857343da03d",
+      "title": "Victoria_(Australia)",
+      "text": "About 61.1% of Victorians describe themselves as Christian. Roman Catholics form the single largest religious group in the state with 26.7% of the Victorian population, followed by Anglicans and members of the Uniting Church. Buddhism is the state's largest non-Christian religion, with 168,637 members as of the most recent census. Victoria is also home of 152,775 Muslims and 45,150 Jews. Hinduism is the fastest growing religion. Around 20% of Victorians claim no religion. Amongst those who declare a religious affiliation, church attendance is low."
+    },
+    {
+      "id": "2f4205298894876b",
+      "title": "Victoria_(Australia)",
+      "text": "Victoria (abbreviated as Vic) is a state in the south-east of Australia. Victoria is Australia's most densely populated state and its second-most populous state overall. Most of its population is concentrated in the area surrounding Port Phillip Bay, which includes the metropolitan area of its capital and largest city, Melbourne, which is Australia's second-largest city. Geographically the smallest state on the Australian mainland, Victoria is bordered by Bass Strait and Tasmania to the south,[note 1] New South Wales to the north, the Tasman Sea to the east, and South Australia to the west."
+    },
+    {
+      "id": "f7e1321f7259ee2b",
+      "title": "Victoria_(Australia)",
+      "text": "More than 26,000 square kilometres (10,000 sq mi) of Victorian farmland are sown for grain, mostly in the state's west. More than 50% of this area is sown for wheat, 33% for barley and 7% for oats. A further 6,000 square kilometres (2,300 sq mi) is sown for hay. In 2003–04, Victorian farmers produced more than 3 million tonnes of wheat and 2 million tonnes of barley. Victorian farms produce nearly 90% of Australian pears and third of apples. It is also a leader in stone fruit production. The main vegetable crops include asparagus, broccoli, carrots, potatoes and tomatoes. Last year, 121,200 tonnes of pears and 270,000 tonnes of tomatoes were produced."
+    },
+    {
+      "id": "1dd13bf146601477",
+      "title": "Victoria_(Australia)",
+      "text": "Victoria has a written constitution enacted in 1975, but based on the 1855 colonial constitution, passed by the United Kingdom Parliament as the Victoria Constitution Act 1855, which establishes the Parliament as the state's law-making body for matters coming under state responsibility. The Victorian Constitution can be amended by the Parliament of Victoria, except for certain \"entrenched\" provisions that require either an absolute majority in both houses, a three-fifths majority in both houses, or the approval of the Victorian people in a referendum, depending on the provision."
+    },
+    {
+      "id": "9044345e28cea939",
+      "title": "Victoria_(Australia)",
+      "text": "The Mallee and upper Wimmera are Victoria's warmest regions with hot winds blowing from nearby semi-deserts. Average temperatures exceed 32 °C (90 °F) during summer and 15 °C (59 °F) in winter. Except at cool mountain elevations, the inland monthly temperatures are 2–7 °C (4–13 °F) warmer than around Melbourne (see chart). Victoria's highest maximum temperature since World War II, of 48.8 °C (119.8 °F) was recorded in Hopetoun on 7 February 2009, during the 2009 southeastern Australia heat wave."
+    },
+    {
+      "id": "1d4b2491c909da1e",
+      "title": "Victoria_(Australia)",
+      "text": "Historically, Victoria has been the base for the manufacturing plants of the major car brands Ford, Toyota and Holden; however, closure announcements by all three companies in the 21st century will mean that Australia will no longer be a base for the global car industry, with Toyota's statement in February 2014 outlining a closure year of 2017. Holden's announcement occurred in May 2013, followed by Ford's decision in December of the same year (Ford's Victorian plants—in Broadmeadows and Geelong—will close in October 2016)."
+    },
+    {
+      "id": "6ab5cb0cac267211",
+      "title": "Victoria_(Australia)",
+      "text": "The Victorian Alps in the northeast are the coldest part of Victoria. The Alps are part of the Great Dividing Range mountain system extending east-west through the centre of Victoria. Average temperatures are less than 9 °C (48 °F) in winter and below 0 °C (32 °F) in the highest parts of the ranges. The state's lowest minimum temperature of −11.7 °C (10.9 °F) was recorded at Omeo on 13 June 1965, and again at Falls Creek on 3 July 1970. Temperature extremes for the state are listed in the table below:"
+    },
+    {
+      "id": "38ef368895718c22",
+      "title": "Victoria_(Australia)",
+      "text": "Rail transport in Victoria is provided by several private and public railway operators who operate over government-owned lines. Major operators include: Metro Trains Melbourne which runs an extensive, electrified, passenger system throughout Melbourne and suburbs; V/Line which is now owned by the Victorian Government, operates a concentrated service to major regional centres, as well as long distance services on other lines; Pacific National, CFCL Australia which operate freight services; Great Southern Rail which operates The Overland Melbourne—Adelaide; and NSW TrainLink which operates XPTs Melbourne—Sydney."
+    },
+    {
+      "id": "631ae85a58426197",
+      "title": "Victoria_(Australia)",
+      "text": "Politically, Victoria has 37 seats in the Australian House of Representatives and 12 seats in the Australian Senate. At state level, the Parliament of Victoria consists of the Legislative Assembly (the lower house) and the Legislative Council (the upper house). Victoria is currently governed by the Labor Party, with Daniel Andrews the current Premier. The personal representative of the Queen of Australia in the state is the Governor of Victoria, currently Linda Dessau. Local government is concentrated in 79 municipal districts, including 33 cities, although a number of unincorporated areas still exist, which are administered directly by the state."
+    },
+    {
+      "id": "f20bb42b5e294e6d",
+      "title": "Huguenot",
+      "text": "Huguenot numbers peaked near an estimated two million by 1562, concentrated mainly in the southern and central parts of France, about one-eighth the number of French Catholics. As Huguenots gained influence and more openly displayed their faith, Catholic hostility grew, in spite of increasingly liberal political concessions and edicts of toleration from the French crown. A series of religious conflicts followed, known as the Wars of Religion, fought intermittently from 1562 to 1598. The wars finally ended with the granting of the Edict of Nantes, which granted the Huguenots substantial religious, political and military autonomy."
+    },
+    {
+      "id": "1b05d25302149995",
+      "title": "Huguenot",
+      "text": "The availability of the Bible in vernacular languages was important to the spread of the Protestant movement and development of the Reformed church in France. The country had a long history of struggles with the papacy by the time the Protestant Reformation finally arrived. Around 1294, a French version of the Scriptures was prepared by the Roman Catholic priest, Guyard de Moulin. A two-volume illustrated folio paraphrase version based on his manuscript, by Jean de Rély, was printed in Paris in 1487."
+    },
+    {
+      "id": "385d26c2d9938088",
+      "title": "Huguenot",
+      "text": "Montpellier was among the most important of the 66 \"villes de sûreté\" that the Edict of 1598 granted to the Huguenots. The city's political institutions and the university were all handed over to the Huguenots. Tension with Paris led to a siege by the royal army in 1622. Peace terms called for the dismantling of the city's fortifications. A royal citadel was built and the university and consulate were taken over by the Catholic party. Even before the Edict of Alès (1629), Protestant rule was dead and the ville de sûreté was no more.[citation needed]"
+    },
+    {
+      "id": "edb8d00a6415b164",
+      "title": "Huguenot",
+      "text": "Stadtholder William III of Orange, who later became King of England, emerged as the strongest opponent of king Louis XIV after the French attacked the Dutch Republic in 1672. William formed the League of Augsburg as a coalition to oppose Louis and the French state. Consequently, many Huguenots considered the wealthy and Calvinist Dutch Republic, which led the opposition to Louis XIV, as the most attractive country for exile after the revocation of the Edict of Nantes. They also found many French-speaking Calvinist churches there."
+    },
+    {
+      "id": "2da67be73df602e2",
+      "title": "Huguenot",
+      "text": "Renewed religious warfare in the 1620s caused the political and military privileges of the Huguenots to be abolished following their defeat. They retained the religious provisions of the Edict of Nantes until the rule of Louis XIV, who progressively increased persecution of them until he issued the Edict of Fontainebleau (1685), which abolished all legal recognition of Protestantism in France, and forced the Huguenots to convert. While nearly three-quarters eventually were killed  or submitted, roughly 500,000 Huguenots had fled France by the early 18th century[citation needed]."
+    },
+    {
+      "id": "9736b7ea7cd39c4b",
+      "title": "Huguenot",
+      "text": "The Catholic Church in France and many of its members opposed the Huguenots. Some Huguenot preachers and congregants were attacked as they attempted to meet for worship. The height of this persecution was the St. Bartholomew's Day massacre when 5,000 to 30,000 were killed, although there were also underlying political reasons for this as well, as some of the Huguenots were nobles trying to establish separate centers of power in southern France. Retaliating against the French Catholics, the Huguenots had their own militia."
+    },
+    {
+      "id": "d0340f7215724f23",
+      "title": "Huguenot",
+      "text": "By 1620 the Huguenots were on the defensive, and the government increasingly applied pressure. A series of three small civil wars known as the Huguenot rebellions broke out, mainly in southwestern France, between 1621 and 1629. revolted against royal authority. The uprising occurred a decade following the death of Henry IV, a Huguenot before converting to Catholicism, who had protected Protestants through the Edict of Nantes. His successor Louis XIII, under the regency of his Italian Catholic mother Marie de' Medici, became more intolerant of Protestantism. The Huguenots respond by establishing independent political and military structures, establishing diplomatic contacts with foreign powers, and openly revolting against central power. The rebellions were implacably suppressed by the French Crown.[citation needed]"
+    },
+    {
+      "id": "fdca2bfa5203b813",
+      "title": "Huguenot",
+      "text": "Approximately one million Protestants in modern France represent some 2% of its population. Most are concentrated in Alsace in northeast France and the Cévennes mountain region in the south, who still regard themselves as Huguenots to this day.[citation needed] A diaspora of French Australians still considers itself Huguenot, even after centuries of exile. Long integrated into Australian society, it is encouraged by the Huguenot Society of Australia to embrace and conserve its cultural heritage, aided by the Society's genealogical research services."
+    },
+    {
+      "id": "6f87ea6fbf41c9ab",
+      "title": "Huguenot",
+      "text": "Huguenot immigrants did not disperse or settle in different parts of the country, but rather, formed three societies or congregations; one in the city of New York, another 21 miles north of New York in a town which they named New Rochelle, and a third further upstate in New Paltz. The \"Huguenot Street Historic District\" in New Paltz has been designated a National Historic Landmark site and contains the oldest street in the United States of America. A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named."
+    },
+    {
+      "id": "45a0b4e5e93112c3",
+      "title": "Huguenot",
+      "text": "After the revocation of the Edict of Nantes, the Dutch Republic received the largest group of Huguenot refugees, an estimated total of 75,000 to 100,000 people. Amongst them were 200 clergy. Many came from the region of the Cévennes, for instance, the village of Fraissinet-de-Lozère. This was a huge influx as the entire population of the Dutch Republic amounted to ca. 2 million at that time. Around 1700, it is estimated that nearly 25% of the Amsterdam population was Huguenot.[citation needed] In 1705, Amsterdam and the area of West Frisia were the first areas to provide full citizens rights to Huguenot immigrants, followed by the Dutch Republic in 1715. Huguenots intermarried with Dutch from the outset."
+    },
+    {
+      "id": "faa7e1060dbb7bdc",
+      "title": "Huguenot",
+      "text": "In this last connection, the name could suggest the derogatory inference of superstitious worship; popular fancy held that Huguon, the gate of King Hugo, was haunted by the ghost of le roi Huguet (regarded by Roman Catholics as an infamous scoundrel) and other spirits, who instead of being in Purgatory came back to harm the living at night. It was in this place in Tours that the prétendus réformés (\"these supposedly 'reformed'\") habitually gathered at night, both for political purposes, and for prayer and singing psalms. Such explanations have been traced to the contemporary, Reguier de la Plancha (d. 1560), who in De l'Estat de France offered the following account as to the origin of the name, as cited by The Cape Monthly:"
+    },
+    {
+      "id": "2630c31b6e02b983",
+      "title": "Huguenot",
+      "text": "A number of Huguenots served as mayors in Dublin, Cork, Youghal and Waterford in the 17th and 18th centuries. Numerous signs of Huguenot presence can still be seen with names still in use, and with areas of the main towns and cities named after the people who settled there. Examples include the Huguenot District and French Church Street in Cork City; and D'Olier Street in Dublin, named after a High Sheriff and one of the founders of the Bank of Ireland. A French church in Portarlington dates back to 1696, and was built to serve the significant new Huguenot community in the town. At the time, they constituted the majority of the townspeople."
+    },
+    {
+      "id": "43d98e0a6026101a",
+      "title": "Steam_engine",
+      "text": "Steam engines are external combustion engines, where the working fluid is separate from the combustion products. Non-combustion heat sources such as solar power, nuclear power or geothermal energy may be used. The ideal thermodynamic cycle used to analyze this process is called the Rankine cycle. In the cycle, water is heated and transforms into steam within a boiler operating at a high pressure. When expanded through pistons or turbines, mechanical work is done. The reduced-pressure steam is then condensed and pumped back into the boiler."
+    },
+    {
+      "id": "e506629a68c63a7c",
+      "title": "Steam_engine",
+      "text": "The first commercially successful true engine, in that it could generate power and transmit it to a machine, was the atmospheric engine, invented by Thomas Newcomen around 1712. It was an improvement over Savery's steam pump, using a piston as proposed by Papin. Newcomen's engine was relatively inefficient, and in most cases was used for pumping water. It worked by creating a partial vacuum by condensing steam under a piston within a cylinder. It was employed for draining mine workings at depths hitherto impossible, and also for providing a reusable water supply for driving waterwheels at factories sited away from a suitable \"head\". Water that had passed over the wheel was pumped back up into a storage reservoir above the wheel."
+    },
+    {
+      "id": "8394917ed3c6abd9",
+      "title": "Steam_engine",
+      "text": "The first full-scale working railway steam locomotive was built by Richard Trevithick in the United Kingdom and, on 21 February 1804, the world's first railway journey took place as Trevithick's unnamed steam locomotive hauled a train along the tramway from the Pen-y-darren ironworks, near Merthyr Tydfil to Abercynon in south Wales. The design incorporated a number of important innovations that included using high-pressure steam which reduced the weight of the engine and increased its efficiency. Trevithick visited the Newcastle area later in 1804 and the colliery railways in north-east England became the leading centre for experimentation and development of steam locomotives."
+    },
+    {
+      "id": "777ba60932fa02fb",
+      "title": "Steam_engine",
+      "text": "The Rankine cycle and most practical steam engines have a water pump to recycle or top up the boiler water, so that they may be run continuously. Utility and industrial boilers commonly use multi-stage centrifugal pumps; however, other types are used. Another means of supplying lower-pressure boiler feed water is an injector, which uses a steam jet usually supplied from the boiler. Injectors became popular in the 1850s but are no longer widely used, except in applications such as steam locomotives."
+    },
+    {
+      "id": "510883d4b2a3ae32",
+      "title": "Steam_engine",
+      "text": "Lead fusible plugs may be present in the crown of the boiler's firebox. If the water level drops, such that the temperature of the firebox crown increases significantly, the lead melts and the steam escapes, warning the operators, who may then manually suppress the fire. Except in the smallest of boilers the steam escape has little effect on dampening the fire. The plugs are also too small in area to lower steam pressure significantly, depressurizing the boiler. If they were any larger, the volume of escaping steam would itself endanger the crew.[citation needed]"
+    },
+    {
+      "id": "6f0c22572b7c29b5",
+      "title": "Steam_engine",
+      "text": "In 1781 James Watt patented a steam engine that produced continuous rotary motion. Watt's ten-horsepower engines enabled a wide range of manufacturing machinery to be powered. The engines could be sited anywhere that water and coal or wood fuel could be obtained. By 1883, engines that could provide 10,000 hp had become feasible. The stationary steam engine was a key component of the Industrial Revolution, allowing factories to locate where water power was unavailable. The atmospheric engines of Newcomen and Watt were large compared to the amount of power they produced, but high pressure steam engines were light enough to be applied to vehicles such as traction engines and the railway locomotives."
+    },
+    {
+      "id": "73afbad581995770",
+      "title": "Steam_engine",
+      "text": "The history of the steam engine stretches back as far as the first century AD; the first recorded rudimentary steam engine being the aeolipile described by Greek mathematician Hero of Alexandria. In the following centuries, the few steam-powered \"engines\" known were, like the aeolipile, essentially experimental devices used by inventors to demonstrate the properties of steam. A rudimentary steam turbine device was described by Taqi al-Din in 1551 and by Giovanni Branca in 1629. Jerónimo de Ayanz y Beaumont received patents in 1606 for fifty steam powered inventions, including a water pump for draining inundated mines. Denis Papin, a Huguenot refugee, did some useful work on the steam digester in 1679, and first used a piston to raise weights in 1690."
+    },
+    {
+      "id": "a6b7ec7938b966c8",
+      "title": "Steam_engine",
+      "text": "Near the end of the 19th century compound engines came into widespread use. Compound engines exhausted steam in to successively larger cylinders to accommodate the higher volumes at reduced pressures, giving improved efficiency. These stages were called expansions, with double and triple expansion engines being common, especially in shipping where efficiency was important to reduce the weight of coal carried. Steam engines remained the dominant source of power until the early 20th century, when advances in the design of electric motors and internal combustion engines gradually resulted in the replacement of reciprocating (piston) steam engines, with shipping in the 20th-century relying upon the steam turbine."
+    },
+    {
+      "id": "973bba514a778416",
+      "title": "Steam_engine",
+      "text": "The heat required for boiling the water and supplying the steam can be derived from various sources, most commonly from burning combustible materials with an appropriate supply of air in a closed space (called variously combustion chamber, firebox). In some cases the heat source is a nuclear reactor, geothermal energy, solar energy or waste heat from an internal combustion engine or industrial process. In the case of model or toy steam engines, the heat source can be an electric heating element."
+    },
+    {
+      "id": "c3575becd21dc148",
+      "title": "Steam_engine",
+      "text": "The most useful instrument for analyzing the performance of steam engines is the steam engine indicator. Early versions were in use by 1851, but the most successful indicator was developed for the high speed engine inventor and manufacturer Charles Porter by Charles Richard and exhibited at London Exhibition in 1862. The steam engine indicator traces on paper the pressure in the cylinder throughout the cycle, which can be used to spot various problems and calculate developed horsepower. It was routinely used by engineers, mechanics and insurance inspectors. The engine indicator can also be used on internal combustion engines. See image of indicator diagram below (in Types of motor units section)."
+    },
+    {
+      "id": "24273c4214c28002",
+      "title": "Steam_engine",
+      "text": "With two-cylinder compounds used in railway work, the pistons are connected to the cranks as with a two-cylinder simple at 90° out of phase with each other (quartered). When the double expansion group is duplicated, producing a 4-cylinder compound, the individual pistons within the group are usually balanced at 180°, the groups being set at 90° to each other. In one case (the first type of Vauclain compound), the pistons worked in the same phase driving a common crosshead and crank, again set at 90° as for a two-cylinder engine. With the 3-cylinder compound arrangement, the LP cranks were either set at 90° with the HP one at 135° to the other two, or in some cases all three cranks were set at 120°.[citation needed]"
+    },
+    {
+      "id": "e14ec1d9643c7f64",
+      "title": "Steam_engine",
+      "text": "In most reciprocating piston engines, the steam reverses its direction of flow at each stroke (counterflow), entering and exhausting from the cylinder by the same port. The complete engine cycle occupies one rotation of the crank and two piston strokes; the cycle also comprises four events – admission, expansion, exhaust, compression. These events are controlled by valves often working inside a steam chest adjacent to the cylinder; the valves distribute the steam by opening and closing steam ports communicating with the cylinder end(s) and are driven by valve gear, of which there are many types.[citation needed]"
+    },
+    {
+      "id": "d8abf737112efa93",
+      "title": "Oxygen",
+      "text": "In the late 17th century, Robert Boyle proved that air is necessary for combustion. English chemist John Mayow (1641–1679) refined this work by showing that fire requires only a part of air that he called spiritus nitroaereus or just nitroaereus. In one experiment he found that placing either a mouse or a lit candle in a closed container over water caused the water to rise and replace one-fourteenth of the air's volume before extinguishing the subjects. From this he surmised that nitroaereus is consumed in both respiration and combustion."
+    },
+    {
+      "id": "1eabc60bd67e2820",
+      "title": "Oxygen",
+      "text": "One of the first known experiments on the relationship between combustion and air was conducted by the 2nd century BCE Greek writer on mechanics, Philo of Byzantium. In his work Pneumatica, Philo observed that inverting a vessel over a burning candle and surrounding the vessel's neck with water resulted in some water rising into the neck. Philo incorrectly surmised that parts of the air in the vessel were converted into the classical element fire and thus were able to escape through pores in the glass. Many centuries later Leonardo da Vinci built on Philo's work by observing that a portion of air is consumed during combustion and respiration."
+    },
+    {
+      "id": "ad88fe48ac1ab4c4",
+      "title": "Oxygen",
+      "text": "Highly concentrated sources of oxygen promote rapid combustion. Fire and explosion hazards exist when concentrated oxidants and fuels are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion. Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion. Combustion hazards also apply to compounds of oxygen with a high oxidative potential, such as peroxides, chlorates, nitrates, perchlorates, and dichromates because they can donate oxygen to a fire."
+    },
+    {
+      "id": "d58b1a4d6bf601f6",
+      "title": "Oxygen",
+      "text": "Concentrated O\n2 will allow combustion to proceed rapidly and energetically. Steel pipes and storage vessels used to store and transmit both gaseous and liquid oxygen will act as a fuel; and therefore the design and manufacture of O\n2 systems requires special training to ensure that ignition sources are minimized. The fire that killed the Apollo 1 crew in a launch pad test spread so rapidly because the capsule was pressurized with pure O\n2 but at slightly more than atmospheric pressure, instead of the 1⁄3 normal pressure that would be used in a mission.[k]"
+    },
+    {
+      "id": "1bb8a054229137a9",
+      "title": "Oxygen",
+      "text": "Oxygen is present in the atmosphere in trace quantities in the form of carbon dioxide (CO\n2). The Earth's crustal rock is composed in large part of oxides of silicon (silica SiO\n2, as found in granite and quartz), aluminium (aluminium oxide Al\n2O\n3, in bauxite and corundum), iron (iron(III) oxide Fe\n2O\n3, in hematite and rust), and calcium carbonate (in limestone). The rest of the Earth's crust is also made of oxygen compounds, in particular various complex silicates (in silicate minerals). The Earth's mantle, of much larger mass than the crust, is largely composed of silicates of magnesium and iron."
+    },
+    {
+      "id": "e0e9c1b00942a791",
+      "title": "Oxygen",
+      "text": "John Dalton's original atomic hypothesis assumed that all elements were monatomic and that the atoms in compounds would normally have the simplest atomic ratios with respect to one another. For example, Dalton assumed that water's formula was HO, giving the atomic mass of oxygen as 8 times that of hydrogen, instead of the modern value of about 16. In 1805, Joseph Louis Gay-Lussac and Alexander von Humboldt showed that water is formed of two volumes of hydrogen and one volume of oxygen; and by 1811 Amedeo Avogadro had arrived at the correct interpretation of water's composition, based on what is now called Avogadro's law and the assumption of diatomic elemental molecules.[a]"
+    },
+    {
+      "id": "8ce2dcdbc9d03ccc",
+      "title": "Oxygen",
+      "text": "This combination of cancellations and σ and π overlaps results in dioxygen's double bond character and reactivity, and a triplet electronic ground state. An electron configuration with two unpaired electrons as found in dioxygen (see the filled π* orbitals in the diagram), orbitals that are of equal energy—i.e., degenerate—is a configuration termed a spin triplet state. Hence, the ground state of the O\n2 molecule is referred to as triplet oxygen.[b] The highest energy, partially filled orbitals are antibonding, and so their filling weakens the bond order from three to two. Because of its unpaired electrons, triplet oxygen reacts only slowly with most organic molecules, which have paired electron spins; this prevents spontaneous combustion."
+    },
+    {
+      "id": "fd80faaf43d6d563",
+      "title": "Oxygen",
+      "text": "The common allotrope of elemental oxygen on Earth is called dioxygen, O\n2. It is the form that is a major part of the Earth's atmosphere (see Occurrence). O2 has a bond length of 121 pm and a bond energy of 498 kJ·mol−1, which is smaller than the energy of other double bonds or pairs of single bonds in the biosphere and responsible for the exothermic reaction of O2 with any organic molecule. Due to its energy content, O2 is used by complex forms of life, such as animals, in cellular respiration (see Biological role). Other aspects of O\n2 are covered in the remainder of this article."
+    },
+    {
+      "id": "3b43cbab19f7f313",
+      "title": "Oxygen",
+      "text": "In 1891 Scottish chemist James Dewar was able to produce enough liquid oxygen to study. The first commercially viable process for producing liquid oxygen was independently developed in 1895 by German engineer Carl von Linde and British engineer William Hampson. Both men lowered the temperature of air until it liquefied and then distilled the component gases by boiling them off one at a time and capturing them. Later, in 1901, oxyacetylene welding was demonstrated for the first time by burning a mixture of acetylene and compressed O\n2. This method of welding and cutting metal later became common."
+    },
+    {
+      "id": "3ee61e6d7605bacd",
+      "title": "Oxygen",
+      "text": "Oxygen is more soluble in water than nitrogen is. Water in equilibrium with air contains approximately 1 molecule of dissolved O\n2 for every 2 molecules of N\n2, compared to an atmospheric ratio of approximately 1:4. The solubility of oxygen in water is temperature-dependent, and about twice as much (14.6 mg·L−1) dissolves at 0 °C than at 20 °C (7.6 mg·L−1). At 25 °C and 1 standard atmosphere (101.3 kPa) of air, freshwater contains about 6.04 milliliters (mL) of oxygen per liter, whereas seawater contains about 4.95 mL per liter. At 5 °C the solubility increases to 9.0 mL (50% more than at 25 °C) per liter for water and 7.2 mL (45% more) per liter for sea water."
+    },
+    {
+      "id": "11e489536cc7ac71",
+      "title": "Oxygen",
+      "text": "Planetary geologists have measured different abundances of oxygen isotopes in samples from the Earth, the Moon, Mars, and meteorites, but were long unable to obtain reference values for the isotope ratios in the Sun, believed to be the same as those of the primordial solar nebula. Analysis of a silicon wafer exposed to the solar wind in space and returned by the crashed Genesis spacecraft has shown that the Sun has a higher proportion of oxygen-16 than does the Earth. The measurement implies that an unknown process depleted oxygen-16 from the Sun's disk of protoplanetary material prior to the coalescence of dust grains that formed the Earth."
+    },
+    {
+      "id": "5c55e63733e829bb",
+      "title": "Oxygen",
+      "text": "Singlet oxygen is a name given to several higher-energy species of molecular O\n2 in which all the electron spins are paired. It is much more reactive towards common organic molecules than is molecular oxygen per se. In nature, singlet oxygen is commonly formed from water during photosynthesis, using the energy of sunlight. It is also produced in the troposphere by the photolysis of ozone by light of short wavelength, and by the immune system as a source of active oxygen. Carotenoids in photosynthetic organisms (and possibly also in animals) play a major role in absorbing energy from singlet oxygen and converting it to the unexcited ground state before it can cause harm to tissues."
+    }
+  ],
+  "questions": [
+    {
+      "id": "570d2556fed7b91900d45c47",
+      "question": "Where is the Asian influence strongest in Victoria?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [
+        "Bendigo",
+        "Bendigo",
+        "Bendigo"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "570d2556fed7b91900d45c48",
+      "question": "Where were the Lambing Flat riots?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [
+        "New South Wales",
+        "New South Wales",
+        "New South Wales"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "570d2556fed7b91900d45c49",
+      "question": "Where was the 1857 riot?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [
+        "Buckland Valley",
+        "Buckland Valley near Bright",
+        "Buckland Valley"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "570d2556fed7b91900d45c4a",
+      "question": "How many miners died in the typhoid outbreak of 1854?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [
+        "over 1,000",
+        "1,000",
+        "1,000"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "570d2556fed7b91900d45c4b",
+      "question": "What were the conditions for miners in the gold fields in Victoria?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [
+        "cramped and unsanitary",
+        "cramped and unsanitary",
+        "cramped and unsanitary"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "570d26efb3d812140066d48f",
+      "question": "What kind of representational system does the Victorian Legislative Council have?",
+      "gold_id": "2ef6bc8b598c3ae9",
+      "answers": [
+        "multi-member proportional",
+        "multi-member proportional",
+        "multi-member proportional representation system"
+      ],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "57105da9a58dae1900cd699e",
+      "question": "Where was France's Huguenot population largely centered?",
+      "gold_id": "f20bb42b5e294e6d",
+      "answers": [
+        "the southern and central parts of France",
+        "southern and central parts of France,",
+        "about one-eighth"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57105da9a58dae1900cd699f",
+      "question": "What was the proportion of Huguenots to Catholics at their peak?",
+      "gold_id": "f20bb42b5e294e6d",
+      "answers": [
+        "about one-eighth the number",
+        "about one-eighth",
+        "about one-eighth"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57105da9a58dae1900cd69a0",
+      "question": "When were the Wars of Religion fought?",
+      "gold_id": "f20bb42b5e294e6d",
+      "answers": [
+        "from 1562 to 1598",
+        "1562 to 1598",
+        "562 to 1598"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57105da9a58dae1900cd69a1",
+      "question": "What treaty ended the Wars of Religion?",
+      "gold_id": "f20bb42b5e294e6d",
+      "answers": [
+        "the Edict of Nantes",
+        "Edict of Nantes",
+        "the Edict of Nantes"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57105da9a58dae1900cd69a2",
+      "question": "What did this agreement do?",
+      "gold_id": "f20bb42b5e294e6d",
+      "answers": [
+        "granted the Huguenots substantial religious, political and military autonomy",
+        "granted the Huguenots substantial religious, political and military autonomy",
+        "granted the Huguenots substantial religious, political and military autonomy"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57106644b654c5140001f8e5",
+      "question": "What helped spread Protestantism in France?",
+      "gold_id": "1b05d25302149995",
+      "answers": [
+        "availability of the Bible in vernacular languages",
+        "the Bible in vernacular languages",
+        "The availability of the Bible in vernacular languages"
+      ],
+      "article": "Huguenot",
+      "split": "val"
+    },
+    {
+      "id": "57112686b654c5140001fbd3",
+      "question": "Along with geothermal and nuclear, what is a notable non-combustion heat source?",
+      "gold_id": "43d98e0a6026101a",
+      "answers": [
+        "solar",
+        "solar power",
+        "solar power, nuclear power or geothermal energy",
+        "solar"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "57112686b654c5140001fbd4",
+      "question": "What ideal thermodynamic cycle analyzes the process by which steam engines work?",
+      "gold_id": "43d98e0a6026101a",
+      "answers": [
+        "Rankine",
+        "Rankine cycle",
+        "Rankine cycle",
+        "Rankine cycle"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "57112686b654c5140001fbd5",
+      "question": "In the Rankine cycle, what does water turn into when heated?",
+      "gold_id": "43d98e0a6026101a",
+      "answers": [
+        "steam",
+        "steam",
+        "steam",
+        "steam"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "57112686b654c5140001fbd6",
+      "question": "At what pressure is water heated in the Rankine cycle?",
+      "gold_id": "43d98e0a6026101a",
+      "answers": [
+        "high",
+        "high",
+        "high pressure",
+        "high"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "57112686b654c5140001fbd7",
+      "question": "What types of engines are steam engines?",
+      "gold_id": "43d98e0a6026101a",
+      "answers": [
+        "external combustion",
+        "external combustion",
+        "external combustion engines",
+        "external combustion"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "571126dfa58dae1900cd6cb2",
+      "question": "What was the first true engine that was commercially successful?",
+      "gold_id": "e506629a68c63a7c",
+      "answers": [
+        "atmospheric engine",
+        "atmospheric engine",
+        "atmospheric engine",
+        "the atmospheric engine"
+      ],
+      "article": "Steam_engine",
+      "split": "test"
+    },
+    {
+      "id": "571a4b0f10f8ca1400304fd5",
+      "question": "Who proved that air is necessary for combustion?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "Robert Boyle",
+        "Robert Boyle",
+        "Boyle",
+        "Robert Boyle"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    },
+    {
+      "id": "571a4b0f10f8ca1400304fd6",
+      "question": "What English chemist showed that fire only needed nitoaereus?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "John Mayow",
+        "John Mayow",
+        "Mayow",
+        "John Mayow"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    },
+    {
+      "id": "571a4b0f10f8ca1400304fd7",
+      "question": "What is consumed in both combustion and respiration?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "nitroaereus",
+        "nitroaereus",
+        "nitroaereus",
+        "nitroaereus"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    },
+    {
+      "id": "571a4b0f10f8ca1400304fd8",
+      "question": "John Mayow died in what year?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "1679",
+        "1679",
+        "1679",
+        "1679"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    },
+    {
+      "id": "571c3e8cdd7acb1400e4c0a6",
+      "question": "What researcher showed that air is a necessity for combustion?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "Robert Boyle",
+        "Robert Boyle",
+        "Boyle",
+        "Robert Boyle"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    },
+    {
+      "id": "571c3e8cdd7acb1400e4c0a7",
+      "question": "What did John Mayow  name the part of air that caused combustion?",
+      "gold_id": "d8abf737112efa93",
+      "answers": [
+        "nitroaereus",
+        "spiritus nitroaereus",
+        "spiritus nitroaereus",
+        "spiritus nitroaereus or just nitroaereus"
+      ],
+      "article": "Oxygen",
+      "split": "test"
+    }
+  ],
+  "unanswerable_oracle_only": [
+    {
+      "id": "5a637a8868151a001a922304",
+      "question": "Where is the Asian gold miners strongest in Victoria?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "5a637a8868151a001a922305",
+      "question": "Where were the pro-Chinese riots?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "5a637a8868151a001a922306",
+      "question": "Where was the 1857 gold rush?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    },
+    {
+      "id": "5a637a8868151a001a922307",
+      "question": "How many miners died from racism violence in 1854?",
+      "gold_id": "114b4c83f0905851",
+      "answers": [],
+      "article": "Victoria_(Australia)",
+      "split": "val"
+    }
+  ]
+}
