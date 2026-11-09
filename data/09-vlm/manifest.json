@@ -1,0 +1,15 @@
+{
+  "dataset": "CIFAR-10",
+  "source": "https://www.cs.toronto.edu/~kriz/cifar.html",
+  "archive_sha256": "6d958be074577803d12ecdefd02955f39262c83c16fe9348329d7fe0b5c001ce",
+  "model": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "preprocessing": "CLIPProcessor from pinned revision; RGB; default resize and center crop",
+  "selection": "first 10 per class for practice, next 10 for homework; official train for validation, official test for test",
+  "files": {
+    "homework_validation.npz": "2c8f978bde27ca30ce4b30f4bbb38280bc731b290071eaf9548f008e5cade309",
+    "practice_validation.npz": "f533117fcd463a717435364b46ac10a5673fe0789ebf3a767cf94b4391668ec1",
+    "homework_test.npz": "ba0d27f266aea143ce1ae6c7d657b1925da8902c09320813d336a3249007ca50",
+    "practice_test.npz": "bbf9e5a2edd77b08b347ae16749bb88b3d4866481d575b13255df87f3204cc9e"
+  }
+}

@@ -51,7 +51,7 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–08. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–08 are organised; other notebooks belong to later sessions.
+Упорядочены лекции 01–09. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–09 are organised; other notebooks belong to later sessions.
 
 ## Лекция 07 / Lecture 07
 
@@ -60,3 +60,7 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 ## Лекция 08 / Lecture 08
 
 [RAG и оценка ответов / RAG and answer evaluation](lectures/08-rag-evaluation/README.md): SQuAD 2.0, TF-IDF, Hit@k, MRR, context budget, EM/token F1.
+
+## Лекция 09 / Lecture 09
+
+[Основы VLM / Vision-language models](lectures/09-vlm/README.md): real CIFAR-10, CLIP, cosine similarity, validation prompt selection, confusion matrix and error analysis.
