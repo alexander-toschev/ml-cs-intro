@@ -51,7 +51,7 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 
 Загрузите выполненный `.ipynb` в [Сдача ДЗ / Homework submissions](https://drive.google.com/drive/folders/1NNElGtsfynHtIHNngesVgpm71Hi9lkXm). Имя файла: `Группа_Фамилия_HWxx.ipynb`. / Upload the executed notebook, named `Group_Surname_HWxx.ipynb`.
 
-Упорядочены лекции 01–09. Остальные тематические ноутбуки относятся к следующим занятиям. / Lessons 01–09 are organised; other notebooks belong to later sessions.
+Упорядочены все десять лекций курса, 01–10. / All ten course lectures, 01–10, are organised.
 
 ## Лекция 07 / Lecture 07
 
@@ -64,3 +64,7 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 ## Лекция 09 / Lecture 09
 
 [Основы VLM / Vision-language models](lectures/09-vlm/README.md): real CIFAR-10, CLIP, cosine similarity, validation prompt selection, confusion matrix and error analysis.
+
+## Лекция 10 / Lecture 10
+
+[Обучение с подкреплением / Reinforcement learning](lectures/10-rl/README.md): real Digits/Wine, contextual bandit, epsilon-greedy, chosen-action feedback, frozen evaluation and confusion matrix.
