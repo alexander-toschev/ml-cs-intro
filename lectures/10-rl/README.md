@@ -1,11 +1,21 @@
 # Лекция 10 — Обучение с подкреплением / Lecture 10 — Reinforcement learning
 
-Агент, среда, политика, награда, возврат, Q-learning и контекстный бандит. Практика использует реальные Digits, ДЗ — реальные Wine. Награда 1[action==label] задана учебным протоколом, действия не меняют будущие контексты. Это не промышленный журнал взаимодействий и не последовательное управление. / Agent, environment, policy, reward, return, Q-learning and contextual bandits. Practice uses real Digits; homework uses real Wine. A teaching protocol defines reward 1[action==label]; actions do not affect future contexts. This is not an operational interaction log or sequential control.
+Агент, среда, политика, награда, возврат, Q-learning и контекстный бандит. Практика P10 использует реальные Digits. ДЗ10 от 26.11.2026 — пять небольших функций Q-learning для робота на явно заданной учебной полосе препятствий. / Agent, environment, policy, reward, return, Q-learning and contextual bandits. P10 uses real Digits. HW10 revised on 26 Nov 2026 contains five small Q-learning functions for a robot in an explicitly defined teaching obstacle course.
 
 - [P10: практика / practice](../../practise/P10_RL.ipynb) · [Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/practise/P10_RL.ipynb)
 - [HW10: домашняя работа / homework](../../home-work/HW10_RL.ipynb) · [Colab](https://colab.research.google.com/github/alexander-toschev/ml-cs-intro/blob/main/home-work/HW10_RL.ipynb)
 - [Критерии / Assessment](ASSESSMENT.md)
 - [Слайды и сценарии RU/EN / Slides and scripts](https://drive.google.com/drive/folders/16QP9_phlrHZ6fHqyARGnoOhBEEuehmlY)
+
+## Новое ДЗ10: робот / Revised HW10: robot
+
+Пять блоков: шаг среды → выбор движения → обновление Q → обучение → маршрут без обучения. Перед каждой функцией есть простое объяснение, пример, пошаговое задание, каркас и проверка. CPU, NumPy и matplotlib. / Five blocks: environment step → action selection → Q update → training → frozen route evaluation. Each has plain explanation, an example, step-by-step instructions, scaffold and checks. CPU, NumPy and matplotlib.
+
+Это симуляция, а не реальный датасет. Проверка на той же карте демонстрирует алгоритм, но не перенос на новые карты. / This is a simulation, not a real dataset; evaluating the same map demonstrates the algorithm without establishing transfer.
+
+Ранее сданные работы Wine сохраняют [свою рубрику](ASSESSMENT_Wine_v1.md) и [шаблон](../../home-work/archive/HW10_RL_Wine_v1.ipynb); обязательной пересдачи нет. / Previous Wine submissions retain their rubric and template; no resubmission is required.
+
+## Практика P10 / Practice P10
 
 Четыре блока: материал → пример → подробное задание → решение студента → проверка. / Four blocks: material → example → detailed task → student solution → check.
 

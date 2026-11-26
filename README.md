@@ -67,4 +67,4 @@ Practice and homework repository. Lectures/slides are in Google Drive; announcem
 
 ## Лекция 10 / Lecture 10
 
-[Обучение с подкреплением / Reinforcement learning](lectures/10-rl/README.md): real Digits/Wine, contextual bandit, epsilon-greedy, chosen-action feedback, frozen evaluation and confusion matrix.
+[Обучение с подкреплением / Reinforcement learning](lectures/10-rl/README.md): P10: real Digits and contextual bandits. HW10: five guided Q-learning functions for a robot obstacle-course simulation / пять понятных функций для робота на полосе препятствий.
